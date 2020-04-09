@@ -1,4 +1,4 @@
-$pub-color:#b75a5a;
+$pub-color:#b96363;
 .card{
     color:white;
         background-color: #193864!important;
@@ -27,6 +27,8 @@ panel{
     .pub-header{
         font-weight: normal;
         font-size:0.9rem;
+        text-transform: inherit;
+       
         
     }
 }
