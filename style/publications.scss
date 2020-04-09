@@ -37,5 +37,21 @@ panel{
     font-size: 0.8em;
     line-height: 1.8em;
     color: white;
-    padding:1.25rem;
+   // padding:1.25rem !important;
+}
+
+.card-header-year{
+    background-color:#db7575 ;
+    text-align:center;
+     font-weight:bold;
+     color:white;
+}
+.card-header panel{
+    .article{
+        font-weight: 600;
+        color: #db7575;
+    }
+    footer{
+        color:lightgray;
+    }
 }
