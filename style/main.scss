@@ -66,16 +66,25 @@ header .logo{
    color: #d46c6c;
 
 }
+.move-up-arrow{
+    float:right;
+    font-weight: 400;
+}
 .portfolio-nav{
    // position:fixed;
    //top: 0; /* Position the navbar at the top of the page */
     //width: 100%; /* Full width */
 }
+.header-container{
+    margin: auto;
+    padding:0 1.5em;  
+    background-color: #193864;
+}
 header{
-    background-color: #173858;
+  
     display:flex;
-    padding:0.6em;
-   
+    padding:0.4em;
+    padding-top: 1.3em;
     justify-content: space-between;
     a{
         color:$font-color;

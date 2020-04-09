@@ -16,7 +16,7 @@
 
 panel .article {
   font-weight: 600;
-  color: #db7575;
+  color: #b75a5a;
   text-decoration: none;
 }
 
@@ -39,7 +39,7 @@ panel .pub-header {
 }
 
 .card-header-year {
-  background-color: #db7575;
+  background-color: #b75a5a;
   text-align: center;
   font-weight: bold;
   color: white;
@@ -47,7 +47,7 @@ panel .pub-header {
 
 .card-header panel .article {
   font-weight: 600;
-  color: #db7575;
+  color: #b75a5a;
 }
 
 .card-header panel footer {

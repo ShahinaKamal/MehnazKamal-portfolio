@@ -66,12 +66,23 @@ header .logo {
   color: #d46c6c;
 }
 
+.move-up-arrow {
+  float: right;
+  font-weight: 400;
+}
+
+.header-container {
+  margin: auto;
+  padding: 0 1.5em;
+  background-color: #193864;
+}
+
 header {
-  background-color: #173858;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  padding: 0.6em;
+  padding: 0.4em;
+  padding-top: 1.3em;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
