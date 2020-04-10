@@ -28,7 +28,11 @@ panel .pub-footer {
 panel .pub-header {
   font-weight: normal;
   font-size: 0.9rem;
-  text-transform: inherit;
+  text-transform: lowercase;
+}
+
+panel .pub-header::first-letter {
+  text-transform: uppercase;
 }
 
 .card-body {

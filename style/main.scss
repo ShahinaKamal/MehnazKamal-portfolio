@@ -199,7 +199,7 @@ cite::before{
     }
     li {
         background:$specif-div-color;
-        padding: 0.5em;
+        padding: 1em;
         margin-bottom: 1em;
         margin-right: 1em;
         border-radius: 2em;
@@ -214,7 +214,7 @@ cite::before{
             line-height: 1.8em;
             color: #db7575;;
             text-decoration: none;
-            padding:0.5em;
+           // padding:0.5em;
        }
        a:hover{
            color: #db7575;;
@@ -388,9 +388,9 @@ strong{
     font: normal normal 25px Academicons;
 }
 .col-icon-container{
-    width: 80px;
-    height: 77px;
-    border-radius: 50%;
+    width: 65px;
+    height: 67px;
+    //border-radius: 0%;
     margin:1em;
 }
 
